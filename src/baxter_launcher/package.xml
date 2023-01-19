@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package>
+  <name>baxter_launcher</name>
+  <version>1.0.0</version>
+  <description>The baxter_launcher package</description>
+  <maintainer email="ege.gursoy@lirmm.fr">Ege Gursoy</maintainer>
+  <author>Ege Gursoy</author>
+
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <export>
+  </export>
+</package>
